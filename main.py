@@ -1,3 +1,11 @@
+#refactoring means to
+#improve the structure of existing code
+#without changing its external behavior
+#this helps enhance code readability,
+#maintainability, and effeciency
+
+
+
 # Problem Set 1: Indexing and Slicing Strings
 # Basic Indexing:
 # Given the string magic = 'abracadabra',
@@ -53,8 +61,7 @@ print(reversed_word_positions)
 # b. Now, split the string at every occurrence of the letter 'a'.
 mottos= ["make","haste", "slowly."]
 separator=""
-result_string= 
-print(result_string)
+
 # Replacing Words:
 # Modify the sentence: "Life is what happens when you are busy making other plans."
 # a. Replace "busy" with "distracted".
@@ -72,4 +79,5 @@ text= "With freedom, books, flowers, and the moon, who could not be happy? - Osc
 # a. Calculate the number of characters (including spaces and punctuation) in the word/phrase: "Supercalifragilisticexpialidocious".
 # b. Count the number of times the letter 'i' appears in the same word/phrase.
 ltetter_to_count='i'
-count=phrase.count(letter_to_count)
+
+
